@@ -5,7 +5,7 @@
 ### **Overview**
 This is a general noise suppresion AI, it does not work that well but it does work. Put a *.wav* file into the folder and change the *WAV* constant at the top to your filepath. Make sure you don't forget the file extension. Now run the *eval.py* script and listen to *output.wav*.
 
-If you want to run the noise.py script, you first need to download the two datasets. Then remove the non *.wav* files from the UrbanSound8K's foldX folders. This should only be one file each.
+If you want to run the noise.py script, you first need to download the two datasets. Then remove the non *.wav* files from the UrbanSound8K's foldX folders. This should only be one file each. Github does not seem to like empty folders, there should be one "LJSpeech-1.1" and one "UrbanSound8K" folder as placeholders for the datasets.
 
 There is also a *make_PCM16.py* file that was used to convert the UrbanSound8K files into a format that tensorflow can handle. It was also used to determine the *BAD_FILES* constant that you can find at the top of *noise.py*. You will need to convert your file to *PCM_16* if it isn't already.
 
