@@ -1,5 +1,5 @@
 # **Noise Suppression AI**
-### **Video Demo:**  <URL HERE>
+### **Video Demo:**  [YouTube](https://youtu.be/Rc223QZObXM)
 ### **Datasets: [LJ Speech](https://keithito.com/LJ-Speech-Dataset/), [UrbanSound8K](https://urbansounddataset.weebly.com/download-urbansound8k.html)**
 ----
 ### **Overview**
